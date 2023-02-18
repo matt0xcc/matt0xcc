@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋, I'm Matthew 🤓🤓🤓</h1>
-<h3 align="center">A passionate 🤔 OS developer</h3>
+Hi 👋, I'm Matthew 🤓🤓🤓
+
+A passionate 🤔 OS developer
 
 - 🔭 I’m currently working on [OS-Lab](https://github.com/matt0xcc/os-lab)
 - 🌱 I’m currently learning **knowledges related to OS development** 😇
