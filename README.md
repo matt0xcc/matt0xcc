@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning knowledge related to kernel.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: quminzhi@gmail.com
+- 📫 How to reach me: matt.0xcc@gmail.com
 - 😄 Pronouns: for search, you know
 - ⚡ Fun fact: rain rain rain in Seattle
 
